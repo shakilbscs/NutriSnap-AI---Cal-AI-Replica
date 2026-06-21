@@ -1,0 +1,6 @@
+{
+  "name": "NutriSnap AI",
+  "description": "Full-stack AI-powered calorie tracker & visual food log replica of Cal AI, powered by Gemini",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
